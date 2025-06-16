@@ -1,17 +1,16 @@
 class Solution {
 public:
     int maximumDifference(vector<int>& nums) {
-        // bruteforce
+        int min = nums[0];
         int maxi = -1;
-     for(int i = 0 ; i<nums.size()-1;i++){
-        for(int j = i+1 ; j<nums.size();j++){
-            if(nums[j]>nums[i]){
-                int diff = nums[j]-nums[i];
-                maxi = max(diff,maxi);
-            }
+        for(int i = 1 ; i<nums.size();i++){
+if(nums[i]>min){
+    maxi = max(maxi,nums[i]-min);
+}
+else{
+    min = nums[i];
+}
         }
-     }
-     return maxi;
-        
+        return maxi;
     }
 };
