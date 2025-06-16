@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Kanishkjain17/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1046-max-consecutive-ones-iii](https://github.com/Kanishkjain17/leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/Kanishkjain17/leetcode/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [3876-transform-array-to-all-equal-elements](https://github.com/Kanishkjain17/leetcode/tree/master/3876-transform-array-to-all-equal-elements) |
@@ -23,4 +24,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1046-max-consecutive-ones-iii](https://github.com/Kanishkjain17/leetcode/tree/master/1046-max-consecutive-ones-iii) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Kanishkjain17/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
