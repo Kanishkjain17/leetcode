@@ -8,10 +8,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-fruit-into-baskets](https://github.com/Kanishkjain17/leetcode/tree/master/0940-fruit-into-baskets) |
 | [1046-max-consecutive-ones-iii](https://github.com/Kanishkjain17/leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/Kanishkjain17/leetcode/tree/master/2144-maximum-difference-between-increasing-elements) |
+| [3241-divide-array-into-arrays-with-max-difference](https://github.com/Kanishkjain17/leetcode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3876-transform-array-to-all-equal-elements](https://github.com/Kanishkjain17/leetcode/tree/master/3876-transform-array-to-all-equal-elements) |
 ## Greedy
 |  |
 | ------- |
+| [3241-divide-array-into-arrays-with-max-difference](https://github.com/Kanishkjain17/leetcode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3876-transform-array-to-all-equal-elements](https://github.com/Kanishkjain17/leetcode/tree/master/3876-transform-array-to-all-equal-elements) |
 ## Binary Search
 |  |
@@ -34,4 +36,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0940-fruit-into-baskets](https://github.com/Kanishkjain17/leetcode/tree/master/0940-fruit-into-baskets) |
+## Sorting
+|  |
+| ------- |
+| [3241-divide-array-into-arrays-with-max-difference](https://github.com/Kanishkjain17/leetcode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 <!---LeetCode Topics End-->
