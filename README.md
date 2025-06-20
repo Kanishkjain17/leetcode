@@ -36,8 +36,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0940-fruit-into-baskets](https://github.com/Kanishkjain17/leetcode/tree/master/0940-fruit-into-baskets) |
+| [3754-maximum-manhattan-distance-after-k-changes](https://github.com/Kanishkjain17/leetcode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## Sorting
 |  |
 | ------- |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/Kanishkjain17/leetcode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
+## Math
+|  |
+| ------- |
+| [3754-maximum-manhattan-distance-after-k-changes](https://github.com/Kanishkjain17/leetcode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
+## String
+|  |
+| ------- |
+| [3754-maximum-manhattan-distance-after-k-changes](https://github.com/Kanishkjain17/leetcode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
+## Counting
+|  |
+| ------- |
+| [3754-maximum-manhattan-distance-after-k-changes](https://github.com/Kanishkjain17/leetcode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 <!---LeetCode Topics End-->
