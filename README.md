@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0205-isomorphic-strings](https://github.com/Kanishkjain17/leetcode/tree/master/0205-isomorphic-strings) |
 | [0940-fruit-into-baskets](https://github.com/Kanishkjain17/leetcode/tree/master/0940-fruit-into-baskets) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/Kanishkjain17/leetcode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## Sorting
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0205-isomorphic-strings](https://github.com/Kanishkjain17/leetcode/tree/master/0205-isomorphic-strings) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/Kanishkjain17/leetcode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## Counting
 |  |
