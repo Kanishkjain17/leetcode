@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Kanishkjain17/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0594-longest-harmonious-subsequence](https://github.com/Kanishkjain17/leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0940-fruit-into-baskets](https://github.com/Kanishkjain17/leetcode/tree/master/0940-fruit-into-baskets) |
 | [1046-max-consecutive-ones-iii](https://github.com/Kanishkjain17/leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/Kanishkjain17/leetcode/tree/master/2144-maximum-difference-between-increasing-elements) |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0594-longest-harmonious-subsequence](https://github.com/Kanishkjain17/leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0940-fruit-into-baskets](https://github.com/Kanishkjain17/leetcode/tree/master/0940-fruit-into-baskets) |
 | [1046-max-consecutive-ones-iii](https://github.com/Kanishkjain17/leetcode/tree/master/1046-max-consecutive-ones-iii) |
 ## Prefix Sum
@@ -37,11 +39,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0205-isomorphic-strings](https://github.com/Kanishkjain17/leetcode/tree/master/0205-isomorphic-strings) |
+| [0594-longest-harmonious-subsequence](https://github.com/Kanishkjain17/leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0940-fruit-into-baskets](https://github.com/Kanishkjain17/leetcode/tree/master/0940-fruit-into-baskets) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/Kanishkjain17/leetcode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## Sorting
 |  |
 | ------- |
+| [0594-longest-harmonious-subsequence](https://github.com/Kanishkjain17/leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/Kanishkjain17/leetcode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 ## Math
 |  |
@@ -55,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0594-longest-harmonious-subsequence](https://github.com/Kanishkjain17/leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/Kanishkjain17/leetcode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## Two Pointers
 |  |
