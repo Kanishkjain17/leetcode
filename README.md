@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0205-isomorphic-strings](https://github.com/Kanishkjain17/leetcode/tree/master/0205-isomorphic-strings) |
+| [2886-faulty-keyboard](https://github.com/Kanishkjain17/leetcode/tree/master/2886-faulty-keyboard) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/Kanishkjain17/leetcode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## Counting
 |  |
@@ -65,4 +66,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/Kanishkjain17/leetcode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
+## Simulation
+|  |
+| ------- |
+| [2886-faulty-keyboard](https://github.com/Kanishkjain17/leetcode/tree/master/2886-faulty-keyboard) |
 <!---LeetCode Topics End-->
