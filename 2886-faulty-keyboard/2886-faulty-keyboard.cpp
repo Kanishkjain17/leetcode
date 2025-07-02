@@ -1,14 +1,17 @@
 class Solution {
 public:
     string finalString(string s) {
-        string result;
-        for (char c : s) {
-            if (c == 'i') {
-                reverse(result.begin(), result.end());
-            } else {
-                result.push_back(c);
+        int startindex = 0;
+        for(int i = 0 ; i<s.size() ; i++){
+            if(s[i]=='i'){
+                startindex = i;
+                reverse(s.begin(),s.begin()+startindex);
+                s.erase(i,1);
+                i = 0;
+                
             }
+            
         }
-        return result;
+      return s;  
     }
 };
